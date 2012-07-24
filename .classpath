@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/shared-asn1-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/shared-i18n-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/shared-ldap-0.9.19-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/shared-ldap-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/shared-ldap-constants-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/shared-ldif-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/platform.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
